@@ -1,4 +1,4 @@
-# AkashToken
+# AkashToken(module3project)
 
 ## Description
 
@@ -9,7 +9,7 @@ The `AkashToken` Solidity contract implements a custom ERC20 token using the Ope
 
 ### Installation
 
-To interact with `DegenToken`:
+To interact with `AkashToken`:
 
 1. **Set up Remix**
    - Visit [Remix](https://remix.ethereum.org/).
