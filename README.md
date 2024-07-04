@@ -1,7 +1,42 @@
-# ETH-AVAX-project3
-## Start
-This Solidity code defines a custom ERC20 token contract named AkashToken, which is built on the OpenZeppelin ERC20 and Ownable contracts. The contract owner is the only one who may mint more tokens to designated addresses; tokens are originally minted to the contract itself. Users can also move tokens to different addresses and burn their tokens. A number of safety inspections are included in the contract to guarantee proper burn and transfer procedures.
-### Description
-The AkashToken Solidity contract implements a custom ERC20 token using the OpenZeppelin ERC20 and Ownable libraries. It initializes the token with a name and symbol, and mints an initial supply of tokens to the contract's address. The contract owner has the exclusive ability to mint new tokens to specified addresses, while all users can burn their own tokens and transfer tokens to others. The Tokenminted function ensures only the owner can transfer tokens from the contract to other addresses, while the burnToken and SendToken functions allow users to burn and transfer tokens, respectively. The contract includes various safeguards to ensure proper and secure token management.
-##### Author
-Akash Singh
+# Project Title
+
+Simple overview of use/purpose.
+
+## Description
+
+An in-depth paragraph about your project and overview of use.
+
+## Getting Started
+
+### Installing
+
+* How/where to download your program
+* Any modifications needed to be made to files/folders
+
+### Executing program
+
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
+
+## Help
+
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
+
+## Authors
+
+Contributors names and contact info
+
+ex. Dominique Pizzie  
+ex. [@DomPizzie](https://twitter.com/dompizzie)
+
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
