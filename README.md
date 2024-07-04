@@ -9,7 +9,7 @@ The AkashToken Solidity contract implements a custom ERC20 token using the OpenZ
 ### Installing
 To interact with AkashToken:
 
-* Set up Remix.
+** Set up Remix.
 * visit Remix.
 * create a new solidity file,e.g.,module3project.sol.
 * Any modifications needed to be made to files/folders
