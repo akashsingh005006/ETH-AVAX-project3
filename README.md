@@ -59,7 +59,8 @@ contract AkashToken is ERC20, Ownable {
 
 }
 
-## Usage
+
+### Usage
 
 ### Minting Tokens
 
@@ -74,7 +75,9 @@ Only the contract owner can mint new tokens.
 ```
 
 ```
-### Burning Tokens
+
+#### Burning Tokens
+
 Burn tokens, from the caller's balance.
 
 ```solidity
