@@ -7,11 +7,23 @@ The AkashToken Solidity contract implements a custom ERC20 token using the OpenZ
 ## Getting Started
 
 ### Installing
-To interact with AkashToken:
+To interact with DegenToken:
 
-** Set up Remix.
-* visit Remix.
-* create a new solidity file,e.g.,module3project.sol.
+1.Set up Remix
+
+Visit Remix.
+
+Create a new Solidity file, e.g., module3project.sol.
+
+2.Copy and Paste Code
+
+Insert the contract code into module3project.sol.
+
+3.Compile and Deploy
+
+Compile the code using the "Solidity Compiler" tab.
+
+Deploy the contract using the "Deploy " tab.
 * Any modifications needed to be made to files/folders
 
 ### Executing program
