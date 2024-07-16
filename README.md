@@ -2,7 +2,7 @@
 
 ## Description
 
-The `AkashToken` Solidity contract implements a custom ERC20 token using the OpenZeppelin ERC20 and Ownable libraries. It initializes the token with a name and symbol, and mints an initial supply of tokens to the contract's address. The contract owner has the exclusive ability to mint new tokens to specified addresses, while all users can burn their own tokens and transfer tokens to others. The Tokenminted function ensures only the owner can transfer tokens from the contract to other addresses, while the burnToken and SendToken functions allow users to burn and transfer tokens, respectively. The contract includes various safeguards to ensure proper and secure token management.
+The `AkashToken` Solidity contract implements a custom ERC20 token using the OpenZeppelin ERC20 library. the contract specifies names of token is"Token" and symbol "ETH+AVAX"..The deployer of the contract is designated as the owner and is initially minted 10 tokens. Only the owner can mint additional tokens to specified addresses, ensuring controlled token distribution. The contract also includes a function to burn tokens, allowing any token holder to permanently remove tokens from circulation. Additionally, a function is provided for transferring tokens between addresses, with checks to prevent transfers to invalid addresses and ensure sufficient balances.
 
 
 ## Getting Started
